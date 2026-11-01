@@ -1,4 +1,11 @@
 {
   "versione": 1,
-  "database": []
+  "database": [
+    {
+      "codice": "POP_ITA",
+      "nome": "Pop Italiano",
+      "file": "pop_italiano.json",
+      "versione": 1
+    }
+  ]
 }
