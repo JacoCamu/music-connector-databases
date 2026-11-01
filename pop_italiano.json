@@ -1,0 +1,19 @@
+{
+  "codice": "POP_ITA",
+  "nome": "Pop Italiano",
+  "versione": 1,
+  "cantanti": [
+    {
+      "codice": "ART001",
+      "nome": "Vasco Rossi"
+    },
+    {
+      "codice": "ART002",
+      "nome": "Laura Pausini"
+    },
+    {
+      "codice": "ART003",
+      "nome": "Jovanotti"
+    }
+  ]
+}
